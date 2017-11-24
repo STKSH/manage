@@ -1,0 +1,29 @@
+{
+  "status": true,
+  "msg": "成功",
+  "data": [{
+      "id": 1,
+      "name": "首页",
+      "list": [{
+        "id": 11,
+        "name": "首页",
+        "route": "home"
+      }]
+    },
+    {
+      "id": 2,
+      "name": "个人中心",
+      "list": [{
+          "id": 21,
+          "name": "权限管理",
+          "route": "authority"
+        },
+        {
+          "id": 22,
+          "name": "系统管理",
+          "route": "system"
+        }
+      ]
+    }
+  ]
+}
